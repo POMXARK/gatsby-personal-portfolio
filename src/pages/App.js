@@ -8,8 +8,9 @@ import { Skills } from "../components/Skills";
 import { Projects } from "../components/Projects";
 import { Contact } from "../components/Contact";
 import { Footer } from "../components/Footer";
+import {Link} from "gatsby";
 
-function App() {
+export const App = ({ nodes }) =>  {
   return (
     <div className="App">
       <NavBar />
@@ -17,7 +18,7 @@ function App() {
       <Skills />
       <Projects />
       <Contact />
-      <Footer />
+      <Footer nodes={ nodes }/>
     </div>
   );
 }
