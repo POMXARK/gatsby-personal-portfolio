@@ -1,5 +1,7 @@
 ---
 title: Вечерник афины
+description: "Design & Development"
+imgUrl: "../images/project-img1.png"
 category: greece
 url: night-athens
 ---

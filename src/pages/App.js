@@ -16,7 +16,7 @@ export const App = ({ nodes }) =>  {
       <NavBar />
       <Banner />
       <Skills />
-      <Projects />
+      <Projects  nodes={ nodes } />
       <Contact />
       <Footer nodes={ nodes }/>
     </div>

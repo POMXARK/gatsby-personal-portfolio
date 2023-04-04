@@ -1,5 +1,7 @@
 ---
 title: Римская пицца
+description: "Design & Development"
+imgUrl: "../images/project-img2.png"
 category: italy
 url: rom-pizza
 ---

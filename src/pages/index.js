@@ -29,7 +29,13 @@ export const query = graphql`
           frontmatter {
             category
             title
+            description
             url
+            imgUrl {
+              childrenImageSharp {
+                gatsbyImageData(width: 600)
+              }
+            }
           }
           id
         }
