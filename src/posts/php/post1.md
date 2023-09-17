@@ -1,8 +1,8 @@
 ---
 title: Путешествие в Рим
 description: "Design & Development"
-imgUrl: "../images/project-img1.png"
-category: italy
+imgUrl: "../../images/project-img1.png"
+category: php
 url: italy-trip
 ---
 

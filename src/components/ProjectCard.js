@@ -5,7 +5,7 @@ import {Link} from "gatsby";
 
 export const ProjectCard = ({ category, url, postId, title, description, imgUrl }) => {
     const img = imgUrl.childrenImageSharp[0].gatsbyImageData.images.fallback.src;
-    console.log('img >>', img);
+    // console.log('img >>', img);
   return (
     <Col size={12} sm={6} md={4}>
       <div className="proj-imgbx">

@@ -1,7 +1,7 @@
 ---
 title: Греческий салат
 description: "Design & Development"
-imgUrl: "../images/project-img3.png"
+imgUrl: "../../images/project-img3.png"
 category: greece
 url: greek-salad
 ---

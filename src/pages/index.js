@@ -23,22 +23,29 @@ export const Head = () => <Seo title="Home" />
 export default IndexPage
 
 export const query = graphql`
-    query MainPage {
-      allMarkdownRemark {
-        nodes {
-          frontmatter {
-            category
-            title
-            description
-            url
-            imgUrl {
-              childrenImageSharp {
-                gatsbyImageData(width: 600)
-              }
-            }
+query MainPage($category: String) {
+  allMarkdownRemark(filter: {frontmatter: {category: {eq: $category}}}) {
+    nodes {
+      frontmatter {
+        category
+        title
+        description
+        url
+        imgUrl {
+          childrenImageSharp {
+            gatsbyImageData(width: 600)
           }
+        }
+      }
+      id
+      parent {
+        ... on File {
           id
+          name
+          relativeDirectory
         }
       }
     }
+  }
+}
 `
