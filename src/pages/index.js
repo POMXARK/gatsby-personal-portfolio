@@ -24,7 +24,10 @@ export default IndexPage
 
 export const query = graphql`
 query MainPage($category: String) {
-  allMarkdownRemark(filter: {frontmatter: {category: {eq: $category}}}) {
+  allMarkdownRemark(
+    filter: {frontmatter: {category: {eq: $category}}}
+    sort: {frontmatter: {priority: DESC}}
+  ) {
     nodes {
       frontmatter {
         category
@@ -36,6 +39,7 @@ query MainPage($category: String) {
             gatsbyImageData(width: 600)
           }
         }
+        priority
       }
       id
       parent {

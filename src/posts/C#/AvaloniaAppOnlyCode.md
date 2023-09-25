@@ -1,0 +1,12 @@
+---
+title: AvaloniaAppOnlyCode
+description: "AvaloniaAppOnlyCode"
+imgUrl: "../../images/project-c#.webp"
+category: c#
+url: AvaloniaAppOnlyCode
+priority: 0
+---
+
+# AvaloniaAppOnlyCode
+
+AvaloniaAppOnlyCode

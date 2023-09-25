@@ -1,9 +1,10 @@
 ---
 title: DisainPatternsPHPDocs
 description: "DisainPatternsPHPDocs"
-imgUrl: "../../images/project-img1.png"
+imgUrl: "../../images/project-php.png"
 category: php
-url: disain-patterns-php-docs
+url: DisainPatternsPHPDocs
+priority: 0
 ---
 
 # DisainPatternsPHPDocs
