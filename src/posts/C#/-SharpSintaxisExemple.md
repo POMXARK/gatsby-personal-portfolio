@@ -2,7 +2,7 @@
 title: -SharpSintaxisExemple
 description: "SharpSintaxisExemple"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: SharpSintaxisExemple
 priority: 0
 ---

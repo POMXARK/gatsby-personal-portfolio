@@ -2,7 +2,7 @@
 title: MenageStaffDBWpfApp
 description: "MenageStaffDBWpfApp"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: MenageStaffDBWpfApp
 priority: 0
 ---

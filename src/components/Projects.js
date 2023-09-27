@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import {Container, Row, Col, Tab, Nav} from "react-bootstrap";
+import "./Projects.scss";
 import {ProjectCard} from "./ProjectCard";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';

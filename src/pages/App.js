@@ -14,12 +14,12 @@ export const App = ({ nodes }) =>  {
     console.log('nodes: ', nodes)
   return (
     <div className="App">
-      {/*<NavBar />*/}
-      {/*<Banner />*/}
-      {/*<Skills />*/}
+      <NavBar />
+      <Banner />
+      <Skills />
       <Projects  nodes={ nodes } />
-      {/*<Contact />*/}
-      {/*<Footer nodes={ nodes }/>*/}
+      <Contact />
+      <Footer nodes={ [] }/>
     </div>
   );
 }

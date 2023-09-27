@@ -2,7 +2,7 @@
 title: AvaloniaReativeUIPrismExempleEventAggregator
 description: "AvaloniaReativeUIPrismExempleEventAggregator"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: AvaloniaReativeUIPrismExempleEventAggregator
 priority: 0
 ---

@@ -2,7 +2,7 @@
 title: Avalonia.MusicStore
 description: "Avalonia.MusicStore"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: MusicStore
 priority: 0
 ---

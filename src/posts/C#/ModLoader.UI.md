@@ -2,7 +2,7 @@
 title: ModLoader.UI
 description: "ModLoader.UI"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: ModLoader
 priority: 0
 ---

@@ -2,7 +2,7 @@
 title: AvaloniaEntityFrameworkExemple
 description: "AvaloniaEntityFrameworkExemple"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: AvaloniaEntityFrameworkExemple
 priority: 0
 ---

@@ -2,7 +2,7 @@
 title: AvaloniaToolkitFriendOrganizer
 description: "AvaloniaToolkitFriendOrganizer"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: AvaloniaToolkitFriendOrganizer
 priority: 0
 ---

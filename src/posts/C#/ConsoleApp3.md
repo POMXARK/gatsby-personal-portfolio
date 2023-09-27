@@ -2,7 +2,7 @@
 title: ConsoleApp3
 description: "ConsoleApp3"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: ConsoleApp3
 priority: 0
 ---

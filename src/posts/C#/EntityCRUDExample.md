@@ -2,7 +2,7 @@
 title: EntityCRUDExample
 description: "EntityCRUDExample"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: EntityCRUDExample
 priority: 0
 ---

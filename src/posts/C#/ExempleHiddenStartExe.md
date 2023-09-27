@@ -2,7 +2,7 @@
 title: ExempleHiddenStartExe
 description: "ExempleHiddenStartExe"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: ExempleHiddenStartExe
 priority: 0
 ---

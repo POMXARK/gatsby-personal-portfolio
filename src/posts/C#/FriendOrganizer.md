@@ -2,7 +2,7 @@
 title: FriendOrganizer
 description: "FriendOrganizer"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: FriendOrganizer
 priority: 0
 ---

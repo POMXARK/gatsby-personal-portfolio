@@ -2,7 +2,7 @@
 title: HiddenLaunchAndControlLibrary
 description: "HiddenLaunchAndControlLibrary"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: HiddenLaunchAndControlLibrary
 priority: 0
 ---

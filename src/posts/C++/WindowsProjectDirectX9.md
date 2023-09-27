@@ -2,7 +2,7 @@
 title: WindowsProjectDirectX9
 description: "WindowsProjectDirectX9"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c++
 url: WindowsProjectDirectX9
 priority: 0
 ---

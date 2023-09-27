@@ -2,7 +2,7 @@
 title: AvaloniaAppFullNameTest
 description: "AvaloniaAppFullNameTest"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: AvaloniaAppFullNameTest
 priority: 0
 ---

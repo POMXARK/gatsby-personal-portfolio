@@ -2,7 +2,7 @@
 title: DynamicLib
 description: "DynamicLib"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: DynamicLib
 priority: 0
 ---

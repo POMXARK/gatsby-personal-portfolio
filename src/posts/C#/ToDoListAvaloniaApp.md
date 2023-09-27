@@ -2,7 +2,7 @@
 title: ToDoListAvaloniaApp
 description: "ToDoListAvaloniaApp"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: ToDoListAvaloniaApp
 priority: 0
 ---

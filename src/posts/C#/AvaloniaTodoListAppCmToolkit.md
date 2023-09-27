@@ -2,7 +2,7 @@
 title: AvaloniaTodoListAppCmToolkit
 description: "AvaloniaTodoListAppCmToolkit"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: AvaloniaTodoListAppCmToolkit
 priority: 0
 ---

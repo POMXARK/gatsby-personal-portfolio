@@ -2,7 +2,7 @@
 title: DynamicDataExamplesAvaloniaApp
 description: "DynamicDataExamplesAvaloniaApp"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: DynamicDataExamplesAvaloniaApp
 priority: 0
 ---

@@ -11,7 +11,7 @@ const SinglePost = ({data}) => {
     const {title, category} = data.markdownRemark.frontmatter;
     const github = "https://github.com/POMXARK/" + title
 
-    fetch(`https://raw.githubusercontent.com/POMXARK/${title}/master/README.md`)
+    fetch(`https://raw.githubusercontent.com/POMXARK/${title}/master/DOCS.md`)
         .then(data => data.text()).then(text => setState(text))
 
     return (

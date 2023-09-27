@@ -2,7 +2,7 @@
 title: AvaloniaAppDatacontextTest
 description: "AvaloniaAppDatacontextTest"
 imgUrl: "../../images/project-c#.webp"
-category: c#
+category: c-sharp
 url: AvaloniaAppDatacontextTest
 priority: 0
 ---
